@@ -7,14 +7,5 @@ I am a full stack engineer & wildcard person, covering everything from vue to ph
 - [Laravel GA4](https://github.com/MyOutDeskLLC/Laravel-Analytics-V4)
 - [SalesforcePhp](https://github.com/MyOutDeskLLC/SalesforcePhp)
 - [Salesforce Duplicate File Scanner](https://github.com/MyOutDeskLLC/SalesforceDuplicateFileScanner)
-- [Salesforce Rest (Deprecated)](https://github.com/MyOutDeskLLC/SalesforceRest)
-
-### 📖 Core Philosophy
-Understand the problem, build the solution, test it, and ship it.
-
-- Conversation Driven Development
-- Deploy Elegantly \ Deploy Often \ Fail Gracefully
-- Test
-- Log Everything
 
 [Personal Site](https://jaysonlindsley.dev)
