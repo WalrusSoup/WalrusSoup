@@ -6,6 +6,7 @@ You can find a few open source projects that I have built below:
 
 - [Tailwind-Formatter](https://github.com/WalrusSoup/Tailwind-Formatter)
 - [Laravel GA4](https://github.com/MyOutDeskLLC/Laravel-Analytics-V4)
+- [Laravel Shortpixel](https://github.com/WalrusSoup/laravel-shortpixel)
 - [SalesforcePhp](https://github.com/MyOutDeskLLC/SalesforcePhp)
 - [Salesforce Duplicate File Scanner](https://github.com/MyOutDeskLLC/SalesforceDuplicateFileScanner)
 - [AutoBcc](https://github.com/MyOutDeskLLC/auto-bcc)
