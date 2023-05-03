@@ -1,4 +1,4 @@
-I am a wildcard person. I do a bit of everything from vue to php to aws infrastructure and salesforce. I have wordpress experience, too (thought, I have to admit, I don't like it one bit). 
+I am a wildcard person. I do a bit of everything: vue (w/ typescript), php, rust, infrastructure (aws), and salesforce.
 
 I love cleaning 🧹 both IRL and in codebases. Refactoring and deleting code is one of my favorite things.
 
